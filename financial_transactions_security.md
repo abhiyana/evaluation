@@ -27,3 +27,8 @@ Utilizing a blockchain for financial transactions offers several security advant
 
 By understanding the security implications and taking appropriate precautions, blockchain technology can play a pivotal role in revolutionizing the security and efficiency of financial transactions, leading to increased trust, reduced fraud, and enhanced financial inclusion.
 
+## References
+- https://consensys.net/blockchain-use-cases/finance/
+- https://www.salesforce.com/eu/blog/2020/02/how-financial-services-are-implementing-blockchain-technology.html
+- https://www.leewayhertz.com/10-use-cases-of-blockchain-in-finance/
+
