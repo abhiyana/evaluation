@@ -23,7 +23,7 @@ To compile the code, follow these steps:
 ## Execution
 1. Open a terminal or command prompt.
 2. If there are no compilation errors, an executable file named `program` will be generated in the same directory.
-   Navigate to the directory where the `blockchain` executable is located.
+   Navigate to the directory where the `program` executable is located.
    - ./program
  
 ## Usage
