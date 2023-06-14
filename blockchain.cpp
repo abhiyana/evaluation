@@ -61,6 +61,8 @@ void Blockchain::addBlock(TransactionNode* transactions) {
 
     // Remove old transactions
     transactionPool = nullptr;
+    cout<<"Block successfully added to Blockchain..."<<endl;
+    cout<<endl;
 }
 
 
@@ -71,6 +73,8 @@ void Blockchain::addTransaction(const string& transaction) {
     // Add the transaction to the current block's linked list of transactions
     newTransaction->next = transactionPool;
     transactionPool = newTransaction;
+    cout<<"Transaction Successfully added.."<<endl;
+    cout<<endl;
 }
 
 bool Blockchain::validateChain() const {
@@ -114,6 +118,7 @@ void Blockchain::printChain() const {
         }
 
         cout << "------------------------" << endl;
+        cout<<endl;
         currentBlock = currentBlock->previousBlock;
     }
 }
@@ -157,6 +162,7 @@ int main() {
         cout << "4: Print Ledger" << endl;
         cout << "5: Exit" << endl;
         cin >> inputNumber;
+        cout<<endl;
 
         switch (inputNumber) {
             case 1: {
