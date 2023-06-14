@@ -1,7 +1,7 @@
-# evaluation
+# Introduction
 This repository contrain Assessment Submission of task given by HogoByte.
 
-# Blockchain Ledger
+## Blockchain Ledger
 This is a simple implementation of a blockchain ledger in C++. It allows you to add transactions, create blocks, validate the ledger, and print the ledger.
 
 ## Prerequisites
