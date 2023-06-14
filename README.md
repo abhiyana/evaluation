@@ -93,8 +93,9 @@ Transactions:
 Block Index: 0
 Block Hash:  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 Previous Hash: 
-Transactions:
-------------------------
+Transactions: 
+
+-------------------------
 Enter a number to perform an operation:
 1: Add Transaction
 2: Add Block
