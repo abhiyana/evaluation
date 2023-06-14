@@ -35,5 +35,83 @@ Here's a brief description of the available operations:
 4. **Print Ledger**: Displays the entire blockchain with block details and transactions.
 5. **Exit**: Quits the program.
 
+## Example
+Starting Blockchain Ledger...
+
+Enter a number to perform an operation:
+1: Add Transaction
+2: Add Block
+3: Validate Ledger
+4: Print Ledger
+5: Exit
+
+1
+
+Enter Transaction: Abhishek to Rajat, 50 INR
+Transaction Successfully added..
+
+Enter a number to perform an operation:
+1: Add Transaction
+2: Add Block
+3: Validate Ledger
+4: Print Ledger
+5: Exit
+
+1
+
+Enter Transaction: Abhishek to Swapnil, 40 INR
+Transaction Successfully added..
+
+Enter a number to perform an operation:
+1: Add Transaction
+2: Add Block
+3: Validate Ledger
+4: Print Ledger
+5: Exit
+
+2
+
+Block successfully added to Blockchain...
+
+Enter a number to perform an operation:
+1: Add Transaction
+2: Add Block
+3: Validate Ledger
+4: Print Ledger
+5: Exit
+
+4
+
+Block Index: 1
+Block Hash:  2f64366f6d4433eaf48293313f1f82668afcee78f5f0394042dda4327a20cc8e
+Previous Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Transactions:
+  - Abhishek to Swapnil, 40 INR
+  - Abhishek to Rajat, 50 INR
+------------------------
+Block Index: 0
+Block Hash:  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Previous Hash: 
+Transactions: 
+
+-------------------------
+Enter a number to perform an operation:
+1: Add Transaction
+2: Add Block
+3: Validate Ledger
+4: Print Ledger
+5: Exit
+
+3
+
+Blockchain is valid.
+
+Enter a number to perform an operation:
+1: Add Transaction
+2: Add Block
+3: Validate Ledger
+4: Print Ledger
+5: Exit
+
 
 
