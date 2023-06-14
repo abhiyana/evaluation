@@ -4,8 +4,6 @@
 #include <string>
 #include "transaction.h"
 
-using namespace std;
-
 struct Block {
     int index;
     std::string blockHash;

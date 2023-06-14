@@ -4,7 +4,6 @@
 #include <string>
 #include "block.h"
 #include "transaction.h"
-using namespace std;
 
 class Blockchain {
 private:
